@@ -1,0 +1,17 @@
+{
+  "name": "jg.first_person_controller_unity",
+  "displayName": "First Person Controller Unity",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "description": "This package contains out of the box functionality for a first person controller",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6"
+  },
+  "samples": [
+    {
+      "displayName": "Gym Sample Scene",
+      "description": "Scene contains a gym to explore the functionality of the controller",
+      "path": "Samples~/Gym"
+    }
+  ]
+}
